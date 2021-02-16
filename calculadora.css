@@ -1,0 +1,14 @@
+table {
+    width:100%;
+}
+
+button {
+    width: 100%;
+    font-size: 150%;
+    color: darkmagenta;
+    border-color: black;
+}
+
+.ac {
+    color: darkviolet;
+}
